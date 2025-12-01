@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "人工智能基础.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -95,7 +95,7 @@
               "type": "backlink",
               "state": {
                 "file": "人工智能基础.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -180,12 +180,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6ea952980e8735d1",
   "lastOpenFiles": [
     "数据库复习资料.md",
-    "人工智能基础.md"
+    "人工智能基础.md",
+    "人工智能基础.html"
   ]
 }
