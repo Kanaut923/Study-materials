@@ -15,7 +15,7 @@
               "state": {
                 "file": "课程/电机与电力电子.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "电机与电力电子"
@@ -187,8 +187,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -212,9 +212,9 @@
   },
   "active": "f3bbdefb79331ffe",
   "lastOpenFiles": [
-    "Language/日本語/日本語文法.md",
-    "Code/Python.md",
     "课程/电机与电力电子.md",
+    "Code/Python.md",
+    "Language/日本語/日本語文法.md",
     "Study/Markdown语法.md",
     "Code/AI.md",
     "Code/C & C++.md",
