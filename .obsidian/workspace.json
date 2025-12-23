@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "bb20920cbce5ab2b",
@@ -196,8 +197,9 @@
   },
   "active": "a3342510768d5f94",
   "lastOpenFiles": [
-    "Code/Python.md",
+    "3.3.md",
     "课程/电机与电力电子.md",
+    "Code/Python.md",
     "Language/日本語/日本語文法.md",
     "Study/Markdown语法.md",
     "Code/AI.md",
